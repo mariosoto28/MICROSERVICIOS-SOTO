@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/mariosoto28/2026-mariosoto.git
+          uri: https://github.com/mariosoto28/MICROSERVICIOS-SOTO.git
           searchPaths: config-data
           default-label: main
 
